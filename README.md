@@ -14,7 +14,7 @@ composer require gpanos/laravel-morph-alias-attribute
 ```
 
 ## Usage 
-To define a morph alias for you model add the `MorphAlias` attribute and pass it your alias. 
+To define a morph alias for your model add the `MorphAlias` attribute and pass it your alias. 
 
 ```php 
 <?php
